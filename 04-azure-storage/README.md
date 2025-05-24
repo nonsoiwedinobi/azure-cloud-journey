@@ -10,7 +10,7 @@ To logically group all related resources in Azure:
 
 ![alt text](image-2.png)
 
-## Create s Storage Account
+## Create a Storage Account
 
 This account will be used to store blobs, files, and other types of data. StorageV2 supports both Blob and Data Lake storage capabilities.
 
