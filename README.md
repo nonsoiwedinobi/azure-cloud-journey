@@ -12,7 +12,7 @@ Welcome to my personal journey into Azure and DevOps! This repository is a colle
 | 04 | [Set Up Azure Storage Account & Blob Storage](./04-azure-storage) | Storage Services, Azure Blob, Access Tiers, Secure Access |
 | 05 | [Create and Configure a Virtual Network](./05-azure-vnet/) | Networking, Subnets, Network Security Groups, DNS Settings |
 | 06 | [Implement Azure Role-Based Access Control (RBAC)](./06-azure-RBAC/) | Identity, Access Management, Permissions, RBAC |
-| 07 | [Deploy an Azure App Service Web App](./07-azure-webapp/) | App Services, Web Deployment, CI/CD Integration |
+| 07 | [Deploy an Azure App Service Web App](https://github.com/nonsoiwedinobi/django-aks-deploy) | App Services, Web Deployment, CI/CD Integration |
 | 08 | [Set Up Azure Monitor & Alerts](./08-azure-monitor/) | Monitoring, Metrics, Alerts, Action Groups |
 
 
