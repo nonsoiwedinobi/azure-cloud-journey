@@ -82,6 +82,8 @@ az webapp deployment source config-zip \
 1. Go to Azure Portal > Dashboards
 2. Create a new dashboard called "Flask Observability Dashboard"
 
+![alt text](12.png)
+
 ## Simulated Endpoints for Testing
 
 | Route     | Purpose                     |
